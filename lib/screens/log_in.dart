@@ -6,7 +6,6 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:hexcolor/hexcolor.dart';
 import 'package:staff_service_management/screens/auth.dart';
 import 'package:staff_service_management/constants/color.dart';
-import 'package:staff_service_management/screens/mainScreenTemp.dart';
 import 'package:staff_service_management/screens/main_screen.dart';
 import 'package:staff_service_management/screens/sign_up.dart';
 
