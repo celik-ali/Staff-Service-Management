@@ -1,16 +1,23 @@
-# staff_service_management
+# Staff-Service-Management
+Gebze Technical University CSE 496 Graduation Project II
 
-A new Flutter project.
+Staff Service Management Project focuses on how to make staff service processes easier and safer for drivers and staff. 
 
-## Getting Started
+How it works and what are the functionalities?
 
-This project is a starting point for a Flutter application.
+ - Driver needs to add the automation to the group, after that the stations need to be added to the database using service prompts. 
 
-A few resources to get you started if this is your first Flutter project:
+  
+  - On the mobile app user will add the group to his profile.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+  - Staff members notifies the automation about the station they will use then they are registered to that station at the backend.
+  
+  
+  - Later the program takes these processesed information from the database then displays the route on the mobile app easily.
+  
+  
+ - Driver can approve whether the person who are going to use the service, used the service or not.
+  
+  
+  - Driver can easily update services and profile.
